@@ -1,5 +1,7 @@
 # Create Vue app with Parcel JS
 
+> ⚠️ **This repository has been archived and is only preserved here for posterity. It contains very outdated technology. If you're a frontend web developer looking for tooling you [probably want to look at ViteJS](https://vitejs.dev/guide/).**
+
 [ParcelJS](https://github.com/parcel-bundler/parcel) is a configuration and development tool for JavaScript apps that tries to make it as easy as possible for the developer to add various features without having to edit `package.json` or `webpack.config.js`.
 
 This repo contains a zero-config template for a very basic [Vue](https://vuejs.org/) app that also supports TypeScript & TSLint, SASS, and Babel transpilation for decent browser support.
